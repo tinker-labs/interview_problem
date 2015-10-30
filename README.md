@@ -7,7 +7,7 @@ The requirements for the application are as follows:
 3. Require all fields, validate that email is in the proper format, and that social_security_number is 9 digits long.
 4. All requests should respond with the user object with only the following fields: first_name, last_name, email, and id
 5. There needs to be an 'index' view that responds with all of the Users in system 
-6. There also needs to be a 'show' that responds with a specific
+6. There also needs to be a 'show' that responds with a specific user
 7. When finished open a pull request and assign it to the owner of this repo
 
 Bonus:
